@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 5316280120,
+  "duration": 11479638817,
   "status": "passed"
 });
 formatter.background({
@@ -52,7 +52,7 @@ formatter.match({
   "location": "AuthentificationOutlineStepDefinition.jeMeConnecteSurLApplicationOrangeHRM()"
 });
 formatter.result({
-  "duration": 5092214944,
+  "duration": 5019606837,
   "status": "passed"
 });
 formatter.match({
@@ -65,7 +65,7 @@ formatter.match({
   "location": "AuthentificationOutlineStepDefinition.jeSaisieLeLogin(String)"
 });
 formatter.result({
-  "duration": 296700788,
+  "duration": 523151134,
   "status": "passed"
 });
 formatter.match({
@@ -78,21 +78,21 @@ formatter.match({
   "location": "AuthentificationOutlineStepDefinition.jeSaisieLeMotDePasse(String)"
 });
 formatter.result({
-  "duration": 116420931,
+  "duration": 247891013,
   "status": "passed"
 });
 formatter.match({
   "location": "AuthentificationOutlineStepDefinition.jeCliqueSurLogin()"
 });
 formatter.result({
-  "duration": 3714673722,
+  "duration": 4758234071,
   "status": "passed"
 });
 formatter.match({
   "location": "AuthentificationOutlineStepDefinition.redirectionVersLAccueil()"
 });
 formatter.result({
-  "duration": 71257469,
+  "duration": 113179810,
   "status": "passed"
 });
 formatter.scenario({
@@ -123,7 +123,7 @@ formatter.match({
   "location": "AccueilStepDefinition.jeCliqueSurLeModuleRecruitment()"
 });
 formatter.result({
-  "duration": 1593234902,
+  "duration": 1861650283,
   "status": "passed"
 });
 formatter.match({
@@ -136,15 +136,15 @@ formatter.match({
   "location": "AccueilStepDefinition.jeVerifieLAffichageDeLaPageRecruitment(String)"
 });
 formatter.result({
-  "duration": 53475842,
+  "duration": 39733403,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1750468516,
+  "duration": 2926856153,
   "status": "passed"
 });
 formatter.before({
-  "duration": 3480692644,
+  "duration": 4021324488,
   "status": "passed"
 });
 formatter.background({
@@ -183,7 +183,7 @@ formatter.match({
   "location": "AuthentificationOutlineStepDefinition.jeMeConnecteSurLApplicationOrangeHRM()"
 });
 formatter.result({
-  "duration": 4618983244,
+  "duration": 4322537394,
   "status": "passed"
 });
 formatter.match({
@@ -196,7 +196,7 @@ formatter.match({
   "location": "AuthentificationOutlineStepDefinition.jeSaisieLeLogin(String)"
 });
 formatter.result({
-  "duration": 117787581,
+  "duration": 98874126,
   "status": "passed"
 });
 formatter.match({
@@ -209,21 +209,21 @@ formatter.match({
   "location": "AuthentificationOutlineStepDefinition.jeSaisieLeMotDePasse(String)"
 });
 formatter.result({
-  "duration": 98814188,
+  "duration": 89287466,
   "status": "passed"
 });
 formatter.match({
   "location": "AuthentificationOutlineStepDefinition.jeCliqueSurLogin()"
 });
 formatter.result({
-  "duration": 3916078961,
+  "duration": 5115620400,
   "status": "passed"
 });
 formatter.match({
   "location": "AuthentificationOutlineStepDefinition.redirectionVersLAccueil()"
 });
 formatter.result({
-  "duration": 68568098,
+  "duration": 58821742,
   "status": "passed"
 });
 formatter.scenario({
@@ -254,7 +254,7 @@ formatter.match({
   "location": "AccueilStepDefinition.jeCliqueSurLeModulePIM()"
 });
 formatter.result({
-  "duration": 1845245568,
+  "duration": 2234508607,
   "status": "passed"
 });
 formatter.match({
@@ -267,11 +267,11 @@ formatter.match({
   "location": "AccueilStepDefinition.jeVerifieLAffichageDeLaPagePIM(String)"
 });
 formatter.result({
-  "duration": 60722489,
+  "duration": 71294416,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1550253399,
+  "duration": 1469973746,
   "status": "passed"
 });
 });
